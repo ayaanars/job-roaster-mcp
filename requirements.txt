@@ -1,0 +1,6 @@
+openai
+mcp
+feedparser
+requests
+python-dotenv
+praw
